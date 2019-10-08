@@ -17,11 +17,11 @@
     "oxid-projects/captcha-module": "^2.0",
     "ecs/autoload": "^1.1",
     "ecs/antipreisalarm": "^1.0",
-    "d3/oxid-paypal-replacement",
-    "d3/oxid-payone-replacement",
-    "d3/oxid-paymorrow-replacement",
-    "d3/oxid-klarna-replacement",
-    "d3/oxid-amazonpay-replacement"
+    "d3/oxid-paypal-replacement": "*",
+    "d3/oxid-payone-replacement": "*",
+    "d3/oxid-paymorrow-replacement": "*",
+    "d3/oxid-klarna-replacement": "*",
+    "d3/oxid-amazonpay-replacement": "*"
   },
   "require-dev": {
     "oxid-esales/testing-library": "^v5.0.4",
