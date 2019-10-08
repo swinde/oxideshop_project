@@ -15,6 +15,7 @@
     "oxid-projects/pdf-invoice-module": "^2.0",
     "oxid-projects/tags-module": "^2.0",
     "oxid-projects/captcha-module": "^2.0",
+    "proudcommerce/pcsummernotefix": "^1.0",
     "ecs/autoload": "^1.1",
     "ecs/antipreisalarm": "^1.0",
     "d3/oxid-paypal-replacement": "*",
