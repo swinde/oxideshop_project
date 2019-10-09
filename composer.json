@@ -18,7 +18,6 @@
     "proudcommerce/pcsummernotefix": "^1.0",
     "ecs/autoload": "^1.1",
     "ecs/antipreisalarm": "^1.0",
-    "d3/oxid-paypal-replacement": "*",
     "d3/oxid-payone-replacement": "*",
     "d3/oxid-paymorrow-replacement": "*",
     "d3/oxid-klarna-replacement": "*",
